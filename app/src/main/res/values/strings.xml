@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NoteAppKt</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="delete">delete</string>
+    <string name="enter_your_text">enter your text</string>
+    <string name="title">title</string>
+    <string name="add_note">add note</string>
+    <string name="reminders">Reminders</string>
+    <string name="pinned">pinned</string>
+    <string name="upcoming">upcoming</string>
+    <string name="click_to_add_note">click + to add note</string>
+    <string name="description">this is a test description text for app</string>
+</resources>
